@@ -4,7 +4,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2021-2-bec-plano.pdf).
 
 ### Tópicos com atividades ativas
 
-> Qual a diferença entre **Modelo de Dados** e **Esquema de Banco de Dados** ?
+> **Questão)** Qual a diferença entre **Modelo de Dados** e **Esquema de Banco de Dados** ?
 
 - [Tópico 01](./topicos/topico-01.md) (Data limite: xx/xx/2022 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
