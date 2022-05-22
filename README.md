@@ -1,4 +1,4 @@
-## Bem-vindo(a), que haja importantes aprendizado e motivação!<br> Disciplina **BANCO DE DADOS I**, Oferta 2022/1 - [Engenharia da Computação]
+## Disciplina **BANCO DE DADOS I**, Oferta 2022/1 - [Engenharia da Computação]<br>Bem-vindo(a)!<br> 
 
 O plano da disciplina está disponível [aqui](./media/bd-2021-2-bec-plano.pdf).<br>
 
