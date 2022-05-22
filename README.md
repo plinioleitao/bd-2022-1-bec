@@ -1,6 +1,6 @@
 ## Disciplina **BANCO DE DADOS I**, Oferta 2022/1 - [Engenharia da Computação]<br>Bem-vindo(a)!<br> 
 
-O plano da disciplina está disponível [aqui](./media/bd-2021-2-bec-plano.pdf).<br>
+O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).<br>
 
 ### Tópicos com atividades ativas
 
