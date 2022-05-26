@@ -2,6 +2,8 @@
 
 O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).<br>
 
+<span style="color: green"> Some green text </span>
+
 ### Para refletir...
 
 1) Qual a diferença entre **Dados** e **Metadados** ?
