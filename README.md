@@ -1,4 +1,4 @@
-## Disciplina **BANCO DE DADOS I**, Oferta 2022/1<br>[Engenharia da Computação]<br>Bem-vindo(a)!<br> 
+## Disciplina **BANCO DE DADOS I**, Oferta 2022/1<br>[Bacharelado em Engenharia da Computação]<br>Bem-vindo(a)!<br> 
 
 O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).<br>
 
