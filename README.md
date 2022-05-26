@@ -2,6 +2,10 @@
 
 O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).<br>
 
+### Questão
+
+1) Qual a diferença entre **Dados** e **Metadados** ?
+
 ### Tópicos com atividades ativas
 
 > **<ins>Questão</ins>:** Qual a diferença entre **Dados** e **Metadados** ?
