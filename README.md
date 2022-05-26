@@ -4,9 +4,10 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).
 
 ### Tópicos com atividades ativas
 
-> **Questão)** Qual a diferença entre **Modelo de Dados** e **Esquema de Banco de Dados** ?
+> **Questão)** Qual a diferença entre **Dados** e **Metadados** ?
 
 - [Tópico 01](./topicos/topico-01.md) (Data limite: xx/xx/2022 23:59:59)<br>
+- [Tópico 02](./topicos/topico-02.md) (Data limite: xx/xx/2022 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
 
 ### Avisos ativos
