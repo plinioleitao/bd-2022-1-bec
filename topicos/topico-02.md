@@ -18,7 +18,7 @@ Sobre o **software** que gerencia o banco de dados, alguns de seus possíveis pa
 4. Habilitar a ***durabilidade*** (??) e a ***recuperação após falhas*** (??) do banco de dados, devido a ***erros de vários tipos*** (??) ou ***uso indevido intencional*** (??).
 5. Controlar o acesso aos dados de vários usuários ao mesmo tempo, sem permitir ***interferências inesperadas entre os usuários*** (??) e sem que ***transações nos dados sejam realizadas parcialmente*** (??) (em vez de ações completas).
 
-## Atividade (data limite: **xx/xx/2022 23h59min59s**)
+## Atividade (data limite: **03/06/2022 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 02", para responder as duas questões a seguir:  
 1. Com relação às definições sobre 'o que é banco de dados' (apresentadas no início deste tópico), analise as diferenças entre as definições, com especial atenção aos termos específicos de algumas delas, tais como 'operacionais' e 'usados'.<br>Apresente a sua definição sobre '_o que banco de dados_', tal que englobe o conteúdo das seis definições apresentadas, mas não use os termos (palavras) já presentes nas seis definições.
