@@ -3,7 +3,7 @@
 Leia o [plano](../media/bd-2022-1-bec-plano.pdf).<br>
 Esclareça suas dúvidas.<br>
 
-### Atividade (data limite: **03/06/2022x 23h59min59s**)
+### Atividade (data limite: **03/06/2022 23h59min59s**)
 
 1. Criar conta no Github (https://github.com), caso não possua uma. 
 1. **Na sua conta do GitHub**, criar um repositório necessariamente '**público**' de nome **bd-2022-1-bec**:
