@@ -12,7 +12,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).
 - [Tópico 02](./topicos/topico-02.md) (Data limite: 03/06/2022 23:59:59)<br>
 - [Tópico 02a](./topicos/topico-02a.md)
 - [Tópico 03](./topicos/topico-03.md) (Data limite: 10/06/2022 23:59:59)<br>
-- [Tópico 03a](./topicos/topico-02a.md)
+- [Tópico 03a](./topicos/topico-03a.md)
 - [Todos os tópicos](topicos/topicos.md)<br>
 
 ### Avisos ativos
