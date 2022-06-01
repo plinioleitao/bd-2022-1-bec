@@ -16,11 +16,11 @@ Se o banco de dados é parte integrante de um produto de software, então:
 - **Questão 02b:** Vários [esquemas de] banco de dados distintos podem atender aos **requisitos de software**?
 
 Independente da classificação de requisitos de software – se o requisito é funcional ou não-funcional, a prioridade do requisito, etc. – há os **requisitos de dados**, que é uma das partes de todo o conjunto de requisitos de software:
-- Os requisitos de dados são os requisitos considerados para o processo de projeto (_desing_) de banco de dados.
+- Os requisitos de dados são os requisitos considerados para o processo de projeto (_design_) de banco de dados.
 - Veja a Figura 7.1 no Capítulo 7 da 6a. edição do livro [1], para uma ilustração de contexto dos requisitos de dados.
 
 O processo de projeto de banco de dados inicia por **abstrair os requisitos de dados**:
-- **Questão 03a:** Como saber se o esquema de banco de dados, que é produzido pelo processo de projeto de banco de dados, é *adequado* à missão do software?
+- **Questão 03a:** Como saber se um esquema de banco de dados, que é produzido pelo processo de projeto de banco de dados, é *adequado* à missão do software?
 - **Questão 03b:** O esquema de banco de dados retrata as necessidades, estrutura e restrições próprias para o banco de dados?
 
 > Há esquemas de banco de dados em vários níveis de abstração: conceitual, lógico, físico, ...
