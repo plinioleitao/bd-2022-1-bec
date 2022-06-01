@@ -12,10 +12,10 @@ Ao projetar bancos de dados, os artefatos resultantes (os esquemas de banco de d
 - **Questão 01b:** O que é produzido ao **projetar um banco de dados**? Que artefatos são gerados?
 
 Se o banco de dados é parte integrante de um produto de software, então:
-- **Questão 02a:** Que [esquema] banco de dados atende aos **requisitos de software**?
-- **Questão 02b:** Vários [esquemas] banco de dados distintos podem atender aos **requisitos de software**?
+- **Questão 02a:** Que [esquema de] banco de dados atende aos **requisitos de software**?
+- **Questão 02b:** Vários [esquemas de] banco de dados distintos podem atender aos **requisitos de software**?
 
-Independente da classificação de requisitos – se o requisito é funcional ou não-funcional, a prioridade do requisito, etc. – há os **requisitos de dados**, que é uma das partes de todo o conjunto de requisitos de software:
+Independente da classificação de requisitos de software – se o requisito é funcional ou não-funcional, a prioridade do requisito, etc. – há os **requisitos de dados**, que é uma das partes de todo o conjunto de requisitos de software:
 - Os requisitos de dados são os requisitos considerados para o processo de projeto (_desing_) de banco de dados.
 - Veja a Figura 7.1 no Capítulo 7 da 6a. edição do livro [1], para uma ilustração de contexto dos requisitos de dados.
 
