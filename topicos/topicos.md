@@ -1,3 +1,4 @@
+[Tópico T04a](./topico-04a.md) - Sistema gerenciador de banco de dados<br>
 [Tópico T04](./topico-04.md) - Dados e metadados<br>
 [Tópico T03b](./topico-03b.md)  - Requisitos de Dados - BD Locadora de Veículos<br>
 [Tópico T03a](./topico-03a.md)  - Requisitos de Dados - BD Controle Acadêmico<br>
