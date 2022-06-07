@@ -44,7 +44,7 @@ Considere os seguintes componentes da **Arquitetura de um SGBD** típico (identi
 5. Buffer manager
 6. Execution engine
 
-**A presente atividade se refere a pesquisar e escrever sobre um desses componentes**, dentre os elencados acima.
+**A presente atividade se refere a pesquisar e escrever sobre um componente**, dentre os elencados acima.
 
 O componente é identificado a partir da primeira letra do seu primeiro nome:
 |Observe o número que segue cada letra|
@@ -56,7 +56,7 @@ Alguns exemplos:
 - para o nome é **Pedro**, o número que segue a letra **P** é 4, então o tipo de metadado é "**4. _Logging and recovery_**".
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 05", para responder:  
-1. Pesquise sobre um dos comonentes da arquitetura típica de um SGBD (escolhido conforme o seu primeiro nome). Então escreva um ou dois parágrafos sobre o mesmo, se possível inclua exemplos. Apresente também as fontes que você usou na sua pesquisa, evite copiar, traga a sua interpretação.
+1. Pesquise sobre um dos componentes da arquitetura típica de um SGBD (escolhido conforme o seu primeiro nome). Então escreva um ou dois parágrafos sobre o mesmo, se possível inclua exemplos. Apresente também as fontes que você usou na sua pesquisa, evite copiar, traga a sua interpretação.
    
 ## Artefatos
 
