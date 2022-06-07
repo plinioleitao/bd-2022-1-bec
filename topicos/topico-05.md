@@ -29,4 +29,40 @@ Algumas benefícios potenciais para o emprego de SGBDs são:
 - mecanismos de segurança dos dados, tais como, cópia (*backup*) e recuperação (*recovery*) de dados;
 - etc.
 
-## Atividade em construção ...
+A Figura a seguir explora os _componentes_ da **Arquitetura de um SGBD** típico, conforme [1].
+
+<img src="../media/fig-dbms-components.jpg" width="750">
+
+## Atividade (data limite: 17/06/2022 23h59min59s)
+
+Considere os seguintes componentes da **Arquitetura de um SGBD** típico (identificados de 1 a 6):
+
+1. Concurrency control
+2. Transaction manager
+3. Query compiler
+4. Logging and recovery
+5. Buffer manager
+6. Execution engine
+
+**A presente atividade se refere a pesquisar e escrever sobre um desses componentes**, dentre os elencados acima.
+
+O componente é identificado a partir da primeira letra do seu primeiro nome:
+|Observe o número que segue cada letra|
+|-|
+|A1B2C3D4E5F6G1H2I3J4K5L6M1N2O3P4Q5R6S1T2U3V4W5X6Y1Z2|
+
+Alguns exemplos:
+- para o nome é **Bia**, o número que segue a letra **B** é 2, então o componente é "**2. _Transaction manager_**".
+- para o nome é **Pedro**, o número que segue a letra **P** é 4, então o tipo de metadado é "**4. _Logging and recovery_**".
+
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 05", para responder:  
+1. Pesquise sobre um dos comonentes da arquitetura típica de um SGBD (escolhido conforme o seu primeiro nome). Então escreva um ou dois parágrafos sobre o mesmo, se possível inclua exemplos. Apresente também as fontes que você usou na sua pesquisa, evite copiar, traga a sua interpretação.
+   
+## Artefatos
+
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 05", para indicar suas reflexões sobre *componentes da arquitetura de um SGBD*.
+
+
+### Referências
+
+[1] Hector Garcia-Molina (Autor), Jeffrey D. Ullman (Autor), Jennifer Widom. Database Systems: The Complete Book, segunda edição, Pearson Prentice Hall.
