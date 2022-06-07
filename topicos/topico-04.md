@@ -56,7 +56,7 @@ Alguns exemplos:
 - para o nome é **Bia**, o número que segue a letra **B** é 2, então o tipo de metadado é "**2. _Technical metadata_**".
 - para o nome é **Pedro**, o número que segue a letra **P** é 4, então o tipo de metadado é "**4. _Rights metadata_**".
 
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2021-2-bec, com o título "Tópico 04", para responder:  
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 04", para responder:  
 1. Pesquise sobre o tipo de metadados (escolhido conforme o seu primeiro nome). Então escreva um ou dois parágrafos sobre o mesmo, apresentando exemplos. Apresente também as fontes que você usou na sua pesquisa.
    
 ## Artefatos
