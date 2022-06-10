@@ -5,6 +5,7 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).
 ### Para refletir...
 
 1) Qual a diferença entre **Dados** e **Metadados** ?
+2) Qual a diferença entre **Modelo de Dados** e **Esquema de [Banco de] Dados** ?
 
 ### Tópicos com atividades ativas
 
