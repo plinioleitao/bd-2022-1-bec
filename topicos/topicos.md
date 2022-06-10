@@ -1,3 +1,4 @@
+[Tópico T05a](./topico-05a.md) - Sistema gerenciador de banco de dados (2)<br>
 [Tópico T05](./topico-05.md) - Sistema gerenciador de banco de dados<br>
 [Tópico T04](./topico-04.md) - Dados e metadados<br>
 [Tópico T03b](./topico-03b.md)  - Requisitos de Dados - BD Locadora de Veículos<br>
