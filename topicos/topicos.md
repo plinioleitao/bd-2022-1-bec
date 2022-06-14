@@ -1,3 +1,4 @@
+[Tópico T07a](./topico-07a.md) - Modelo relacional - Chave primária<br>
 [Tópico T06](./topico-06.md) - Modelo de Dados<br>
 [Tópico T05a](./topico-05a.md) - Sistema gerenciador de banco de dados (parte 2)<br>
 [Tópico T05](./topico-05.md) - Sistema gerenciador de banco de dados<br>
