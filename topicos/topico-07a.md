@@ -1,4 +1,4 @@
-## [Tópico T07a] - Modelo relacional - Chave primária
+## [Tópico T07a] - Modelo Relacional (MR) - Chave primária
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Mudanças recentes nas leis de privacidade proibiram as organizações de usar números de CPF para identificar indivíduos, a menos que certas restrições sejam atendidas. Como resultado, a maioria das sistemas de negócios não pode usar CPFs como chave (identificação) dos seus clientes. 
