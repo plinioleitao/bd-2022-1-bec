@@ -1,3 +1,4 @@
+[Tópico T08a](./topico-08a.md) - Modelo Relacional (MR) - Exercício<br>
 [Tópico T08](./topico-08.md) - Modelo Relacional (MR) - Restrições de Integridade<br>
 [Tópico T07a](./topico-07a.md) - Modelo Relacional (MR) - Chave primária<br>
 [Tópico T07](./topico-07.md) - Modelo Relacional (MR) - Primeiros passos e _Checklist_<br>
