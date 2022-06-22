@@ -59,9 +59,19 @@ Uma **superchave SK<sub>i</sub> em R** é uma **chave em R** se não tiver atrib
   - por exemplo, suponha que no esquema de MUNICIPIO há superchaves {Cidade, Estado, Área} e {Cidade, Estado}:
     - contudo, somente {Cidade, Estado} é uma chave em MUNICIPIO.
 
-Segundo [1], para entender **_chave vs. superchave_**, uma chave satisfaz duas propriedades:
-1. Duas _tuplas_ distintas em qualquer estado da relação não podem ter valores idênticos para (todos) os atributos na chave.<br>Essa propriedade de exclusividade também se aplica a uma superchave.
-2. É uma superchave mínima - ou seja, uma superchave da qual não podemos remover nenhum atributo e ainda manter a restrição de exclusividade.<br>Essa propriedade de minimalidade é necessária para uma chave, mas é opcional para uma superchave.
+Segundo [1], para entender **_chave vs. superchave_**:<br>
+&#9745; Duas _tuplas_ distintas, em qualquer [estado de] relação, não podem ter valores idênticos para [todos] os seus atributos.<br>
+&#9745; A propriedade de exclusividade se aplica a chaves e a superchaves.<br>
+&#9745; Uma chave é uma superchave mínima - ou seja, uma superchave da qual não podemos remover nenhum atributo e ainda manter a restrição de exclusividade.<br>
+&#9745; A propriedade de minimalidade é necessária para uma chave, mas é opcional para uma superchave.
+
+Portanto, **_uma chave é uma superchave_**, mas não vice-versa [1]:
+- Uma _**superchave pode ser uma chave**_ (se for mínima) ou pode não ser uma chave (se não for mínima).
+- Considere a relação ALUNO, em que o conjunto de atributos {Matricula} é uma chave, pois duas _tuplas_ de alunos não podem ter o mesmo valor para os atributos dessa chave.
+- Qualquer conjunto de atributos que inclua _Matricula_, por exemplo, _{Matricula, Nome, DataDeNascimento}_ é uma superchave:
+  - no entanto, a superchave _{Matricula, Nome, DataDeNascimento}_ não é uma chave de ALUNO, porque remover _Nome_ ou _DataDeNascimento_ ou ambos do conjunto ainda caracteriza uma superchave. 
+- Em geral, qualquer superchave formada a partir de um único atributo também é uma chave:
+  - Uma chave com vários atributos deve exigir todos os seus atributos juntos para ter a propriedade de exclusividade.
 
 Não é raro que um esquema **R** tenha mais de uma **chave em R**:
 - Cada uma das **chaves em R** é usualmente chamada de **chave candidata**.
