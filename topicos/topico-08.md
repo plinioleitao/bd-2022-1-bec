@@ -70,8 +70,7 @@ Portanto, **_uma chave é uma superchave_**, mas não vice-versa [1]:
 - Considere a relação ALUNO, em que o conjunto de atributos {Matricula} é uma chave, pois duas _tuplas_ de alunos não podem ter o mesmo valor para os atributos dessa chave.
 - Qualquer conjunto de atributos que inclua _Matricula_, por exemplo, _{Matricula, Nome, DataDeNascimento}_ é uma superchave:
   - no entanto, a superchave _{Matricula, Nome, DataDeNascimento}_ não é uma chave de ALUNO, porque remover _Nome_ ou _DataDeNascimento_ ou ambos do conjunto ainda caracteriza uma superchave. 
-- Em geral, qualquer superchave formada a partir de um único atributo também é uma chave:
-  - Uma chave com vários atributos deve exigir todos os seus atributos juntos para ter a propriedade de exclusividade.
+- Em geral, qualquer superchave formada a partir de um único atributo também é uma chave.
 
 Não é raro que um esquema **R** tenha mais de uma **chave em R**:
 - Cada uma das **chaves em R** é usualmente chamada de **chave candidata**.
