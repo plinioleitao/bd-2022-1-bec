@@ -1,3 +1,5 @@
+[Tópico T10](./topico-10.md) - Álgebra Relacional - Produto Cartesiano e Junção<br>
+[Tópico T09](./topico-09.md) - Álgebra Relacional - Fundamentos e Primeiras operações<br>
 [Tópico T08a](./topico-08a.md) - Modelo Relacional (MR) - Exercício<br>
 [Tópico T08](./topico-08.md) - Modelo Relacional (MR) - Restrições de Integridade<br>
 [Tópico T07a](./topico-07a.md) - Modelo Relacional (MR) - Chave primária<br>
