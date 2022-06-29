@@ -9,10 +9,6 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).
 
 ### Tópicos com atividades ativas
 
-- [Tópico 07](./topicos/topico-07.md) (Data limite: 24/06/2022 23:59:59)<br>
-- [Tópico 07a](./topicos/topico-07a.md)
-- [Tópico 08](./topicos/topico-08.md) (Data limite: 24/06/2022 23:59:59)<br>
-- [Tópico 08a](./topicos/topico-08a.md)
 - [Tópico 09](./topicos/topico-09.md) (Data limite: 01/07/2022 23:59:59)<br>
 - [Tópico 10](./topicos/topico-10.md) (Data limite: 01/07/2022 23:59:59)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
