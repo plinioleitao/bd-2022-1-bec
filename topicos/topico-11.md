@@ -65,4 +65,4 @@ Qual o CPF e o nome dos funcionários que são supervisores e gerentes de depart
 Qual o maior salário da empresa?<br>
 ■ _escreva a consulta em álgebra relacional_...
 
-## Atividade (data limite: **xx/xx/xxxx 23h59min59s**)
+## Atividade em construção (data limite: **xx/xx/2022 23h59min59s**)
