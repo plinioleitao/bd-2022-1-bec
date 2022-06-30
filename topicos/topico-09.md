@@ -155,8 +155,13 @@ A **Operação RENOMEAÇÃO#2** ***também*** aplica a renomeação da relação
 
 #### RENOMEAÇÃO#2 Exemplo 1:
 Seja a sequência de expressões:<br>
+
 &#8718; **ρ <sub>TEMP</sub> (σ <sub>Categ="papel"</sub> (PRODUTO))**<br>
 &#8718; **ρ <sub>RESULT(Código, Valor)</sub> (π <sub>CodProduto, Preço</sub> (TEMP))**<br>
+
+&#8718; TEMP &#8592; σ <sub>Categ="papel"</sub> (PRODUTO)<br>
+&#8718; RESULT(Código, Valor) &#8592; π <sub>CodProduto, Preço</sub> (TEMP)<br>
+
 Esta sequência de expressões resulta em<br>
 
 RESULT
