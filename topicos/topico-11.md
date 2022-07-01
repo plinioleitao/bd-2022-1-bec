@@ -65,4 +65,17 @@ Qual o CPF e o nome dos funcionários que são supervisores e gerentes de depart
 Qual o maior salário da empresa?<br>
 ■ _escreva a consulta em álgebra relacional_...
 
-## Atividade em construção (data limite: **xx/xx/2022 23h59min59s**)
+## Atividade (data limite: **08/07/2022 23h59min59s**)
+
+Considere o **esquema lógico** do Banco de Dados Empresa, apresentado no início do presente tópico.
+
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 11", para responder:  
+
+1. Escreva a seguinte consulta:<br>**Qual o nome dos funcionários que trabalham em mais de um projeto?**
+
+IMPORTANTE:
+- Use, necessariamente (somente), as operações da álgebra relacional apresentadas até o presente tópico.
+
+## Artefatos
+
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 11", para indicar suas reflexões iniciais sobre conceitos da *álgebra relacional*.
