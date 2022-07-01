@@ -74,7 +74,7 @@ Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com 
 1. Escreva a seguinte consulta:<br>**Qual o nome dos funcionários que trabalham em mais de um projeto?**
 
 IMPORTANTE:
-- Use, necessariamente (somente), as operações da álgebra relacional apresentadas até o presente tópico.
+- Use, NECESSARIAMENTE (SOMENTE), as operações da álgebra relacional apresentadas até o presente tópico.
 
 ## Artefatos
 
