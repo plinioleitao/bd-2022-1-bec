@@ -1,3 +1,4 @@
+[Tópico T11a](./topico-11a.md) - Álgebra Relacional - Junção vs. União, Interseção, Diferença<br>
 [Tópico T11](./topico-11.md) - Álgebra Relacional - União, Interseção, Diferença<br>
 [Tópico T10](./topico-10.md) - Álgebra Relacional - Produto Cartesiano e Junção<br>
 [Tópico T09](./topico-09.md) - Álgebra Relacional - Fundamentos e Primeiras operações<br>
