@@ -60,6 +60,8 @@ Qual o CPF dos funcionários que são supervisores e gerentes de departamento?<b
 Qual o CPF e o nome dos funcionários que são supervisores e gerentes de departamento?<br>
 ■ _escreva a consulta em álgebra relacional_...
 
+ρ Cpf_supervisor(FUNCIONARIO) ∩ ρ Cpf_gerente (DEPARTAMENTO) 
+
 #### UNIÃO, INTERSEÇÃO e DIFERENÇA Exemplo 5:
 
 Qual o maior salário da empresa?<br>
