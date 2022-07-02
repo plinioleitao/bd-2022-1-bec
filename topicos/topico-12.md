@@ -75,7 +75,7 @@ Qual o nome dos funcionários que possuem dois ou mais dependentes?
 |RESUMO_DOIS ← σ <sub>Qtde_depend >= 2</sub> (RESUMO)|RENOMEAÇÃO, SELEÇÃO|
 |RESULT ← π <sub>Pnome, Unome</sub> (RESUMO_DOIS * FUNCIONARIO)|RENOMEAÇÃO, JUNÇÃO NATURAL, PROJEÇÃO|
 
-## Atividade (data limite: **08/07/2022 23h59min59s**)
+## Atividade (data limite: **15/07/2022 23h59min59s**)
 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 12", para responder:  
 
