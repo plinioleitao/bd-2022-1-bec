@@ -112,9 +112,9 @@ OU<br>
 
 ### Para refletir ...
 
-Para cada funcionário, apresente o noime do funcionário e o nome do seu supervisor direto.
+Para cada funcionário, apresente o nome do funcionário e o nome do seu supervisor direto.
 
-  ρ SUPERVISIONADO (FUNCIONARIO) &#8904;<sub>SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF</sub> ρ SUPERVISOR (DEPARTAMENTO)
+  ρ SUPERVISIONADO (FUNCIONARIO) &#8904;<sub>SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF</sub> ρ SUPERVISOR (FUNCIONARIO)
 
 ## Atividade (data limite: **01/07/2022 23h59min59s**)
 
