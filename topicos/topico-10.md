@@ -116,6 +116,10 @@ Para cada funcionário, apresente o nome do funcionário e o nome do seu supervi
 
 π SUPERVISIONADO.Pnome, SUPERVISOR.Pnome ( ρ SUPERVISIONADO (FUNCIONARIO) &#8904;<sub>SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF</sub> ρ SUPERVISOR (FUNCIONARIO) )
 
+SELECT SUPERVISIONADO.Pnome, SUPERVISOR.Pnome<br>
+FROM FUNCIONARIO AS SUPERVISIONADO JOIN FUNCIONARIO AS SUPERVISOR<br>
+ON SUPERVISIONADO.Cpf_supervisor = SUPERVISOR.CPF
+
 ## Atividade (data limite: **01/07/2022 23h59min59s**)
 
 Considere o esquema da relação PRODUTO:<br>
