@@ -62,7 +62,7 @@ Qual o CPF dos funcionários que são supervisores e gerentes de departamento?<b
 Qual o CPF e o nome dos funcionários que são supervisores e gerentes de departamento?<br>
 ■ _escreva a consulta em álgebra relacional_...
 
-π CPF, Pnome, Unome ( ρ CPF ( Cpf_supervisor(FUNCIONARIO) ∩ ρ Cpf_gerente (DEPARTAMENTO) ) * FUNCIONARIO )
+π CPF, Pnome, Unome ( ρ CPF ( ρ Cpf_supervisor(FUNCIONARIO) ∩ ρ Cpf_gerente (DEPARTAMENTO) ) * FUNCIONARIO )
 
 
 #### UNIÃO, INTERSEÇÃO e DIFERENÇA Exemplo 5:
