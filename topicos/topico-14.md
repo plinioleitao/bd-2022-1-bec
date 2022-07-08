@@ -1,4 +1,4 @@
-## [Tópico T13a] - Álgebra Relacional - Ferramenta RelaX (parte 1)
+## [Tópico T14] - Álgebra Relacional - Ferramenta RelaX (parte 1)
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 **RelaX** (_relational algebra calculator_) é uma calculadora de álgebra relacional, criada por Johannes Kessler (_Databases and Information Systems Group_), no Instituto de Ciência da Computação da Universidade de Innsbruck (Áustria), sob supervisão de Michael Tschuggnall e Prof. Dr. Günther Specht.
@@ -119,4 +119,16 @@ Algumas distinções com respeito à notação:
 
 #### Outras operações ...
 
-## Não há atividade para este tópico, excepcionalmente.
+## Atividade (data limite: **15/07/2022 23h59min59s**)
+
+Seja o arquivo [agricultura.relax](../data/agricultura.relax), para a criação de um _dataset_ referente ao **BD Agricultura**.
+
+Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 14", para responder:  
+
+Baseado no conteúdo do arquivo [agricultura.relax](../data/agricultura.relax):
+1. Escreva os comandos DDL para a definição do **BD Agricultura**.
+1. Qual o propósito, objetivamente, da relação ENTREGA? Noutras palavras, que associações são concretizadas pela relação ENTREGA?
+
+## Artefatos
+
+1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 14", para praticar *comandos DDL*.
