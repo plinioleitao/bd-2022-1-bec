@@ -19,6 +19,7 @@ A operação DIVISÃO é usualmente referida como "para todas":
   - o conjunto de atributos de T é **X<sub>R</sub> - X<sub>S</sub> = {B}**;
   - cada _tupla_ em **T** se refere às _tuplas_ de **R** que existem "para todas" as _tuplas_ de **S**, conforme ilustrado na figura.
 
+**Qual o CPF dos funcionários que trabalham em todos os projetos?**<br>
 π <sub>Fcpf, Prn</sub> (TRABALHA_EM) ÷ ρ <sub>Prn</sub> (π <sub>Proj_numero</sub> (PROJETO))
 
 #### DIVISÃO Exemplo 1:
