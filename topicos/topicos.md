@@ -1,3 +1,4 @@
+[Tópico T13](./topico-13.md) - Álgebra Relacional - Junção Externa<br>
 [Tópico T12](./topico-12.md) - Álgebra Relacional - Divisão, Função Agregada, Agrupamento<br>
 [Tópico T11a](./topico-11a.md) - Álgebra Relacional - Junção vs. União, Interseção, Diferença<br>
 [Tópico T11](./topico-11.md) - Álgebra Relacional - União, Interseção, Diferença<br>
