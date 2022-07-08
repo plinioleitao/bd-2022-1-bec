@@ -1,4 +1,4 @@
-## [Tópico T13] - Álgebra Relacional - Junção Externa (parte 1)
+## [Tópico T13] - Álgebra Relacional - Junção Externa
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 Para apoiar os exemplos das operações da Álgebra Relacional, considere a ilustração abaixo do **BD Empresa**.
