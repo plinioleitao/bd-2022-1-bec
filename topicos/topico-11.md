@@ -70,7 +70,7 @@ Qual o CPF e o nome dos funcionários que são supervisores e gerentes de depart
 Qual o maior salário da empresa?<br>
 ■ _escreva a consulta em álgebra relacional_...
 
-## Atividade (data limite: **08/07/2022 23h59min59s**)
+## Atividade (data limite: **15/07/2022 23h59min59s**)
 
 Considere o **esquema lógico** do Banco de Dados Empresa, apresentado no início do presente tópico.
 
