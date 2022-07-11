@@ -126,7 +126,6 @@ Seja o arquivo [agricultura.relax](../data/agricultura.relax), para a criação 
 Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 14", para responder:  
 
 Baseado no conteúdo do arquivo [agricultura.relax](../data/agricultura.relax):
-1. Escreva os comandos DDL para a definição do **BD Agricultura**.
 1. Qual o propósito, objetivamente, da relação ENTREGA? Noutras palavras, que associações são concretizadas pela relação ENTREGA?
 
 ## Artefatos
