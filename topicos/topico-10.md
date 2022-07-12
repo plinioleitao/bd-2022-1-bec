@@ -139,6 +139,9 @@ IMPORTANTE:
 - Use, necessariamente, os operadores:
   - seleção (**σ**), projeção(**π**), produto cartesiano (**×**) e renomeação (**ρ**), bem como parêntesis.
 
+UMA SOLUÇÃO:
+- Favor ver uma resposta [aqui](https://github.com/plinioleitao/bd-2022-1-bec/issues/143) .
+
 ## Artefatos
 
 1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 10", para indicar suas reflexões iniciais sobre conceitos da *álgebra relacional*.
