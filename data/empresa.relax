@@ -2,7 +2,7 @@ group: BD Empresa
 description[[Os dados deste conjunto de dados vêm do livro Elmasri-Navathe]]
 
 FUNCIONARIO = {
-Pnome, Minicial, Unome, Cpf:string, Datanasc:string, Endereco:string, Sexo, Salario:number, Cpf_supervisor:string, Dnr
+Pnome, Minicial, Unome, Cpf:string, Datanasc:string, Endereco:string, Sexo, Salario:number, Cpf_supervisor:string, Dnr:number
 'Joao', 'B', 'Silva', '12345678966', '1965-01-09', 'Rua das Flores, 751, Sao Paulo, SP', 'M', 30000, '33344555587', '5'
 'Fernando', 'T', 'Wong', '33344555587', '1955-12-08', 'Rua da Lapa, 34, Sao Paulo, SP', 'M', 40000, '88866555576', '5'
 'Alice', 'J', 'Zelaya', '99988777767', '1968-01-19', 'Rua Souza Lima, 54, Curtiba, PR', 'F', 25000, '98765432168', '4'
