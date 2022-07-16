@@ -88,6 +88,8 @@ Escreva em álgebra relacional as seguintes consultas ao BD Empresa:
 
 IMPORTANTE: Use a sintaxe da Álgebra Relacional conforme os exemplos apresentados.
 
+RESPOSTA<br>Uma resposta está [aqui](https://github.com/plinioleitao/bd-2022-1-bec/issues/189).
+
 ## Artefatos
 
 1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 12", para praticar operações da *álgebra relacional*.
