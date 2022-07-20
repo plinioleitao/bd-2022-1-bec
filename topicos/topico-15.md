@@ -73,7 +73,7 @@ ALTER TABLE FUNCIONARIO <br>
 &nbsp;&nbsp;&nbsp;&nbsp; DROP COLUMN Email; <br>
 ALTER TABLE FUNCIONARIO <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ADD CONSTRAINT FUNCIONARIO_CK_SEXO <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHECK (Sexo IN ('M','F')); <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHECK (Sexo IN ('M','F', 'm', 'f')); <br>
 
 ### Exercício
 
