@@ -1,4 +1,4 @@
-## [Tópico T15] - SQL - Introdução, DDL (_Data Definition Language_)
+## [Tópico T14b] - SQL - Introdução, DDL (_Data Definition Language_)
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 **SQL** (**_Structured Query Language_**) é a linguagem padrão para Sistemas Gerenciadores de Bancos de Dados Relacionais (SGBDR):
@@ -75,7 +75,7 @@ ALTER TABLE FUNCIONARIO <br>
 &nbsp;&nbsp;&nbsp;&nbsp; ADD CONSTRAINT FUNCIONARIO_CK_SEXO <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CHECK (Sexo IN ('M','F', 'm', 'f')); <br>
 
-### Exercício
+### Exercício 1
 
 Veja o conteúdo do arquivo [empresa.sql](../data/empresa.sql):
 - O conteúdo do arquivo possui comandos para a **definição** (criação das estruturas de dados) e **construção** (carga inicial) do **BD Empresa**.
@@ -98,11 +98,9 @@ Pronto, o **BD Empresa** foi criado e está pronto para ser manipulado (usado).<
   - substitua _<nome_relação>_ por:
     - FUNCIONARIO, DEPARTAMENTO, LOCALIZACAO_DEP, PROJETO, TRABALHA_EM, DEPENDENTE.
 
-## Atividade (data limite: **22/07/2022 23h59min59s**)
+### Exercício 2
 
 Seja o arquivo [agricultura.relax](../data/agricultura.relax), para a criação de um _dataset_ na ferramente _RelaX_, referente ao **BD Agricultura**.
-
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 15", para responder:
 
 Baseado no conteúdo do arquivo [agricultura.relax](../data/agricultura.relax):
 1. Escreva em DDL a definição do **BD Agricultura**:
@@ -111,6 +109,4 @@ Baseado no conteúdo do arquivo [agricultura.relax](../data/agricultura.relax):
 2. Escreva em álgebra relacional a consulta "que produtos estão entre os três preços por quilo mais elevados":
    - Não utilize funções agregadas, agrupamento, e consultas aninhadas.
 
-## Artefatos
-
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 15", para explorar _álgebra relacional_ e _comandos DDL da SQL_.
+## Não há atividade prevista para o presente tópico.
