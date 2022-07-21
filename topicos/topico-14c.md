@@ -1,4 +1,4 @@
-## [Tópico T16] - SQL - DML (_Data Manipulation Language_): Primeiros comandos
+## [Tópico T14c] - SQL - DML (_Data Manipulation Language_): Primeiros comandos
 ###### *by Prof. Plinio Sa Leitao-Junior (INF/UFG)*
 
 A **Linguagem de Manipulação de Dados** (DML - _Data Manipulation Language_) se refere às operações do dia-a-dia de um banco de dados, a saber: consultar dados, inserir dados, alterar dados e excluir dados.<br>
@@ -138,9 +138,7 @@ Vamos executar o conteúdo do arquivo [empresa.sql](../data/empresa.sql), tal qu
 Pronto, o **BD Empresa** foi criado e está pronto para ser manipulado (usado).<br>
 **Execute cada consulta apresentada nos exemplos acima**
 
-## Atividade (data limite: **22/07/2022 23h59min59s**)
-
-Criar uma _issue_ no projeto https://github.com/plinioleitao/bd-2022-1-bec, com o título "Tópico 16", para responder:  
+### Exercício
 
 1. Baseado na [ilustração do BD Empresa](../media/fig-mr-2.jpg), escreva em SQL a consulta:<br>
 Para cada dependente, apresente o nome do dependente e o primeiro e último nomes do funcionário responsável pelo dependente, mas restrito aos dependentes em que:
@@ -149,6 +147,4 @@ Para cada dependente, apresente o nome do dependente e o primeiro e último nome
 - o tamanho do primeiro nome do dependente ou do empregado responsável é o mesmo que o tamanho do seu primeiro nome (se refere a você, que é discente da disciplina) 
 - obs.: use a função **CHAR_LENGTH(att)** para calcular o tamanho da cadeia (valor) para o atributo _att_.
 
-## Artefatos
-
-1. _Issue_ criada no projeto https://github.com/plinioleitao/bd-2022-1-bec, cujo título é "Tópico 16" para, após entender e usar as estruturas básicas de consultas em SQL, resolver uma consulta ao **BD Empresa**.
+## Não há atividade prevista para o presente tópico.
