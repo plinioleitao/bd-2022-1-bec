@@ -1,3 +1,4 @@
+[Tópico T14d](./topico-14d.md) - SQL - DML (Data Manipulation Language): Junção, Junção Natural, Valor nulo, Junção Externa<br>
 [Tópico T14c](./topico-14c.md) - SQL - DML (Data Manipulation Language): Primeiros comandos<br>
 [Tópico T14b](./topico-14b.md) - SQL - Introdução, DDL (Data Definition Language)<br>
 [Tópico T14a](./topico-14a.md) - Álgebra Relacional - Ferramenta RelaX (parte 2)<br>
