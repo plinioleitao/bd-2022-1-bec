@@ -1,6 +1,10 @@
-[Tópico T14d](./topico-14d.md) - SQL - DML (Data Manipulation Language): Junção, Junção Natural, Valor nulo, Junção Externa<br>
-[Tópico T14c](./topico-14c.md) - SQL - DML (Data Manipulation Language): Primeiros comandos<br>
-[Tópico T14b](./topico-14b.md) - SQL - Introdução, DDL (Data Definition Language)<br>
+[Tópico T14h](./topico-14h.md) - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 2)<br>
+[Tópico T14g](./topico-14g.md) - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 1)<br>
+[Tópico T14f](./topico-14f.md) - SQL - DML (_Data Manipulation Language_): União, Interseção, Diferença, Subconsulta (primeiros passos)<br>
+[Tópico T14e](./topico-14e.md) - SQL - DML (_Data Manipulation Language_): Funções Agregadas, Agrupamento de dados, Ordenação de Dados<br>
+[Tópico T14d](./topico-14d.md) - SQL - DML (_Data Manipulation Language_): Junção, Junção Natural, Valor nulo, Junção Externa<br>
+[Tópico T14c](./topico-14c.md) - SQL - DML (_Data Manipulation Language_): Primeiros comandos<br>
+[Tópico T14b](./topico-14b.md) - SQL - Introdução, DDL (_Data Definition Language_)<br>
 [Tópico T14a](./topico-14a.md) - Álgebra Relacional - Ferramenta RelaX (parte 2)<br>
 [Tópico T14](./topico-14.md) - Álgebra Relacional - Ferramenta RelaX (parte 1)<br>
 [Tópico T13](./topico-13.md) - Álgebra Relacional - Junção Externa<br>
