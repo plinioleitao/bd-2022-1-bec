@@ -9,14 +9,8 @@ O plano da disciplina está disponível [aqui](./media/bd-2022-1-bec-plano.pdf).
 
 ### Tópicos ativos
 
-- [Tópico 14a](./topicos/topico-14a.md)<br>
-- [Tópico 14b](./topicos/topico-14b.md)<br>
-- [Tópico 14c](./topicos/topico-14c.md)<br>
-- [Tópico 14d](./topicos/topico-14d.md)<br>
-- [Tópico 14e](./topicos/topico-14e.md)<br>
-- [Tópico 14f](./topicos/topico-14f.md)<br>
-- [Tópico 14g](./topicos/topico-14g.md)<br>
-- [Tópico 14h](./topicos/topico-14h.md)<br>
+- [Tópico 15a](./topicos/topico-15a.md)<br>
+- [Tópico 15b](./topicos/topico-15b.md)<br>
 - [Todos os tópicos](topicos/topicos.md)<br>
 - [Análise das atividades](./media/bd-2022-1-bec-resumo.pdf)
 
