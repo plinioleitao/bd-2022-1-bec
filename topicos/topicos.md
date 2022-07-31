@@ -1,3 +1,5 @@
+[Tópico T15b](./topico-15b.md) - Modelo Entidade Relacionamento (MER) - Demanda informacional<br>
+[Tópico T15a](./topico-15a.md) - Modelo Entidade Relacionamento (MER) - Primeiros passos e _Checklist_<br>
 [Tópico T14h](./topico-14h.md) - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 2)<br>
 [Tópico T14g](./topico-14g.md) - SQL - DML (_Data Manipulation Language_): Subconsulta (parte 1)<br>
 [Tópico T14f](./topico-14f.md) - SQL - DML (_Data Manipulation Language_): União, Interseção, Diferença, Subconsulta (primeiros passos)<br>
